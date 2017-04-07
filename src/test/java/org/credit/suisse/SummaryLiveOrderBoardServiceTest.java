@@ -1,8 +1,6 @@
 package org.credit.suisse;
 
-import org.junit.Rule;
 import org.junit.Test;
-import org.junit.rules.ExpectedException;
 
 import java.util.List;
 
